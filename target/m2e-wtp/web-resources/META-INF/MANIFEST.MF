@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Photo
+Implementation-Version: 3.0
+Built-By: Shannon
+Implementation-Vendor-Id: com.yan
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/Dora/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
