@@ -1,15 +1,16 @@
-# 毕业设计 Dora：http://119.28.140.248/index.html
+## 毕业设计 
+Dora：http://119.28.140.248/index.html
 ***v3:springboot project***
 
 
 这个项目是参照金夫人旧版的网站开发，使用java前后端分离而开发摄影项目。
 
-# 运行环境
+## 运行环境
 - JDK 8
 - MySQL
 - tomcat7+
 
-# 主要技术
+## 主要技术
 
 - SpringBoot
 - Mybatis
@@ -19,7 +20,7 @@
 
 
 
-# 安装步骤
+## 安装步骤
 
 0 - clone或者下载本项目
 
@@ -36,10 +37,4 @@
 ## 后台模块
 
 登陆路径 localhost:8080/manage/login.html
-
-默认账号 admin<br>
-默认密码 admin
-
-帮助文档在后台home页面
-
 
